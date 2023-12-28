@@ -12,5 +12,5 @@ Combine
 
 <br>
 
-<img align="left" src="ss/1.png" width="300" height="600"> 
-<img align="left" src="ss/2.png" width="300" height="600"> 
+<img align="left" src="FoodApp/ss/1.png" width="300" height="600"> 
+<img align="left" src="FoodApp/ss/2.png" width="300" height="600"> 
